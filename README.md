@@ -1,2 +1,2 @@
 # ponyReminder
-a time remider for pony
+a time reminder for pony
